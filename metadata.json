@@ -1,0 +1,5 @@
+{
+  "name": "Compare SRT zh-vi",
+  "description": "Một ứng dụng để so sánh tệp phụ đề SRT gốc tiếng Trung với bản dịch tiếng Việt, và sử dụng AI để tạo ra một tệp SRT tiếng Việt được cải thiện, chính xác theo ngữ cảnh.",
+  "requestFramePermissions": []
+}
